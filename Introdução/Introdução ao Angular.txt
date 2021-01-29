@@ -1,0 +1,49 @@
+* Angular é uma parceria com Google + Microsoft
+
+* Open Source
+
+* O Angular 2 não é uma continuação do Angular 1
+
+
+/* Blocos Principais */
+
+- Compenente:
+	° Template
+	° Metadata
+	  - processamento das Classes
+	° Data Binding
+	  - Dado a ser mostrado na tela
+	° Comportamento da VIEW
+
+[ Iremos trabalhar orientado a componentes, então tudo sera um componente.
+  Temos o exemplo do Blog com angular2 onde a Barra Lateral é um componente
+  e o Cabeçalho tambem é um ]
+
+* O beneficio de trabalhar desta forma é que fica muito mais facil para testar.
+* O componente pode fazer integração com Backend.
+* Pode ser uma < Diretiva >
+
+
+- Diretivas:
+	° Responsável por modificar elementos DOM e/ou seu Comportamento
+	
+
+- Roteamento:
+
+
+- Serviços:
+	° Responsavel por ter a lógica de negocio e
+	° Comunicação com o Backend e
+	° Pode ser injedo em outras classes 
+	  - Para isso é usado a < - Injeção Dependência: >
+
+
+- Template:
+
+- Metadata:
+
+- Data Binding:
+
+- Injeção Dependência:
+
+
