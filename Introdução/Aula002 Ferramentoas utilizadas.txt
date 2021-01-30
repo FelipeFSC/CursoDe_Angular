@@ -1,0 +1,28 @@
+
+* Node.js
+ - Junto com com o NODE vem junto o < NPM >
+Que nada mais é que um gerenciador de pacotes JavaScript.
+
+
+* TYPESCRIPT
+ - Para instalar o mesmo, basta ir no propt de sua maquina
+e digitar:
+	Windows
+$ npm install -g typescript
+
+      MAC / LINUX
+$ sudo npm install -g typescript
+
+
+* Angular/CLI
+ - Tambem no CMD digitar:
+	Windows
+$ npm install -g @angular/cli
+
+
+------
+ Para fazer uma pequena verificação se o CLI foi 
+ instalado em sua maquina basta digitar :
+
+ $ ng -v
+------
