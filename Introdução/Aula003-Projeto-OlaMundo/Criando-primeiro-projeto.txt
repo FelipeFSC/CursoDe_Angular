@@ -1,0 +1,38 @@
+---------------------->
+* Primeiro passo:
+ - Vamos ao CMD e selecionar nosso diretorio
+para isso basta você navegar em seu computador usando o 
+comando cd, ex:
+ 
+ $ cd documents
+
+Assim indo até o local desejado.
+<----------------------
+
+
+---------------------->
+* Segundo passo:
+ - Chegando em sua pasta digite:
+
+ $ ng new <nome>
+<----------------------
+
+
+---------------------->
+* Terceiro passo:
+ - Entre dentro da pasta usando o cd e digite:
+
+ $ ng serve
+
+Para que o código seja servido ao browser.
+<----------------------
+
+
+---------------------->
+* Terceiro passo:
+ - Não tem terceiro passo
+Depois de abrir o seu projeto com o seu editor de texto
+de preferencia iremos trabalhar dentro do
+ -src
+  -app
+<----------------------
