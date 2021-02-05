@@ -25,6 +25,8 @@ Assim indo até o local desejado.
  $ ng serve
 
 Para que o código seja servido ao browser.
+
+< Iremos usar a URL disponibilizada >
 <----------------------
 
 
